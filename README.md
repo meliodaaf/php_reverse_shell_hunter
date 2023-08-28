@@ -33,11 +33,11 @@ ssh-copy-id user@serverip
 
 **Sample**
 1. Sample files on a remote host
-![webshells](https://github.com/meliodaaf/threat-hunting-php-shells/blob/main/docs/webshells.png)
+![webshells](https://github.com/meliodaaf/php_reverse_shell_hunter/blob/main/docs/webshells.png)
 2. Run the script againts the remote host and directory
-![script](https://github.com/meliodaaf/threat-hunting-php-shells/blob/main/docs/script.png)
+![script](https://github.com/meliodaaf/php_reverse_shell_hunter/blob/main/docs/script.png)
 3. Slack notification
-![slack](https://github.com/meliodaaf/threat-hunting-php-shells/blob/main/docs/slack.png)
+![slack](https://github.com/meliodaaf/php_reverse_shell_hunter/blob/main/docs/slack.png)
 
 
 ## References
