@@ -1,6 +1,6 @@
 # php_shell_hunter.py
 
-![logo](https://github.com/clarencesubia/threat-hunting-php-shells/blob/main/docs/logo.png)
+![logo](https://github.com/meliodaaf/threat-hunting-php-shells/blob/main/docs/logo.png)
 
 ## Features
 * Hunts basic unobfuscated PHP shell files to a target directory
@@ -11,7 +11,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/clarencesubia/threat-hunting-php-shell.git
+git clone https://github.com/meliodaaf/threat-hunting-php-shell.git
 pip3 install -r requirements.txt
 ```
 
@@ -33,11 +33,11 @@ ssh-copy-id user@serverip
 
 **Sample**
 1. Sample files on a remote host
-![webshells](https://github.com/clarencesubia/threat-hunting-php-shells/blob/main/docs/webshells.png)
+![webshells](https://github.com/meliodaaf/threat-hunting-php-shells/blob/main/docs/webshells.png)
 2. Run the script againts the remote host and directory
-![script](https://github.com/clarencesubia/threat-hunting-php-shells/blob/main/docs/script.png)
+![script](https://github.com/meliodaaf/threat-hunting-php-shells/blob/main/docs/script.png)
 3. Slack notification
-![slack](https://github.com/clarencesubia/threat-hunting-php-shells/blob/main/docs/slack.png)
+![slack](https://github.com/meliodaaf/threat-hunting-php-shells/blob/main/docs/slack.png)
 
 
 ## References
