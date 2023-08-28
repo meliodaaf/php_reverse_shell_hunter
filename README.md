@@ -1,6 +1,6 @@
 # php_shell_hunter.py
 
-![logo](https://github.com/meliodaaf/threat-hunting-php-shells/blob/main/docs/logo.png)
+![logo](https://github.com/meliodaaf/php_reverse_shell_hunter/blob/main/docs/logo.png)
 
 ## Features
 * Hunts basic unobfuscated PHP shell files to a target directory
